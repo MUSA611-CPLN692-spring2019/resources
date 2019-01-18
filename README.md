@@ -15,7 +15,7 @@
     * Ross Bernet: TBD
     * Huiling He: TBD
 * **Need help?**
-    * [![Gitter]()]()
+    * [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/CPLN692-MUSA611-spring2019/community#)
     * Internet Search ([stack overflow](https://stackoverflow.com/) is your friend!)
 * [Map-based Web Application Examples](./webmap-examples.md)
 * [Data Sources](./datasources.md)
