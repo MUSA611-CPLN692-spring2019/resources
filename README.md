@@ -2,7 +2,7 @@
 
 # Syllabus
 
-* **Course:**   CPLN-692-401, University of Pennsylvania
+* **Course:**   MUSA-611 // CPLN-401, University of Pennsylvania
 * **Location:** Meyerson Hall B2
 * **Schedule:** 2-5PM, Fridays
 * **Instructor:**
@@ -11,9 +11,11 @@
 * **Teaching Assistant:**
     * Huiling (Ling) He, [huilingh@design.upenn.edu](mailto:huilingh@design.upenn.edu)
 * **Office Hours:**
-    * Nathan Zimmerman: TBD
-    * Ross Bernet: TBD
-    * Huiling He: TBD
+    * Nathan Zimmerman: 12:30 - 1:30pm Fridays @ The Graduate Student Center
+    * Ross Bernet: 10:30 - 11:30am Fridays @ The Graduate Student Center
+    * Huiling (Ling) He: 7:00 - 9:00pm Wednesdays @ Education Commons
+      * Room may vary. 1/23 is in room 230
+
 * **Need help?**
     * [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/CPLN692-MUSA611-spring2019/community#)
     * Internet Search ([stack overflow](https://stackoverflow.com/) is your friend!)
@@ -21,8 +23,8 @@
 * [Data Sources](./datasources.md)
 
 ## Software
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [GitHub Desktop](https://desktop.github.com/)
+* [Atom](https://atom.io/)
+* [git](https://git-scm.com/downloads)
 
 ## Supplementary resources
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - A
@@ -167,4 +169,3 @@ every copied and pasted line of code is *not* necessary. Large patterns
 or multiple lines of code taken from external sources *should*, however,
 be noted with in-code comments. If an instance is unclear, you should
 feel free to speak with the instructors.
-
