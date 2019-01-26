@@ -38,6 +38,11 @@
   you might like to build for your final, the chapters on HTML forms, drawing
   with javascript, building a game, and constructing your own painting
   application will push further than we can in class.
+* [Basics of working at the terminal](http://www.cs.colby.edu/maxwell/courses/tutorials/terminal/) -
+  We will use the command line terminal in the class to submit weekly assignments
+  through git and GitHub. Although there are only a handful of commands you'll need
+  to learn to submit assignments, as you work more closely with programming, developing
+  comfort at the command line is a useful skill.
 
 ## Course outline
 Throughout this 15 week course, you'll be learning to program
