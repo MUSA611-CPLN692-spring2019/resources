@@ -2,7 +2,7 @@
 
 # Syllabus
 
-* **Course:**   MUSA-611 // CPLN-401, University of Pennsylvania
+* **Course:**   MUSA-611 // CPLN-692, University of Pennsylvania
 * **Location:** Meyerson Hall B2
 * **Schedule:** 2-5PM, Fridays
 * **Instructor:**
