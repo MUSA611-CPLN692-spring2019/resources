@@ -155,10 +155,10 @@ you're familiar with github).
 * Leaflet Draw
 * D3/Chart.js
 * Bootstrap
-* Using the command line
 * Python
 * Advanced debugging
 * Vector tiles
+   * [tippecanoe](https://github.com/mapbox/tippecanoe)
 * node.js (writing javascript for the server)
 
 ### Academic Integrity
